@@ -1,17 +1,14 @@
 # Image-Classifier
 In this project, you'll build a Python application that can train an image classifier on a dataset, then predict new images using the trained model.
 In this lab you will use a created image classifier to identify dog breeds. We ask you to focus on Python and not on the actual classifier. (We will focus on building a classifier ourselves in other program).
-Description:
 
+Description:
 Your city is hosting a citywide dog show and you have volunteered to help the organizing committee with contestant registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information.
 
 Some people are planning on registering pets that aren’t actual dogs
 
 You need to use a newly developed Python classifier to make sure the participants are dogs.
 Lab Goals
-
-    Improving your programming skills using by Python to solve a complex problem.
-    Having fun solving a more complex problem using Python.
 
 Tasks:
 
